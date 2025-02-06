@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m @ThinhPhoenix<br>👀 I’m interested in coding<br>🌱 I’m currently learning VueJs + Golang<br>💞️ I’m looking to work in enormous project<br>📫 How to reach me https://www.facebook.com/laichithinh.phoenix
+👋 Hi, I’m @ThinhPhoenix<br>👀 I’m interested in coding<br>🌱 I’m currently learning Golang<br>💞️ I’m looking to work in enormous project<br>📫 How to reach me https://www.facebook.com/laichithinh.phoenix
 
 
 # 🌐 Socials
