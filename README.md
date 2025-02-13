@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=11ADF7&width=435&lines=Hello+There!%F0%9F%91%8B;I'm+Lai+Ch%C3%AD+Th%E1%BB%8Bnh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=478be6&width=435&lines=Hello+There!%F0%9F%91%8B;I'm+Lai+Ch%C3%AD+Th%E1%BB%8Bnh)](https://git.io/typing-svg)
 
 # 💫 About Me
 👋 Hi, I’m @ThinhPhoenix<br>👀 I’m interested in coding<br>🌱 I’m currently learning Golang<br>💞️ I’m looking to work in enormous project<br>📫 How to reach me https://www.facebook.com/laichithinh.phoenix
