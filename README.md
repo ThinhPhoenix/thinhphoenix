@@ -1,7 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D5F7&width=435&lines=%F0%90%8B%85%F0%90%8C%84%F0%90%8C%8B%F0%90%8C%8B%EA%9D%8A+%F0%90%8C%95%F0%90%8B%85%F0%90%8C%84%F0%90%8C%90%F0%90%8C%84!+%F0%9F%91%8B;%F0%90%8C%89'%F0%90%8C%8C+%F0%90%8C%8B%F0%90%8C%80%F0%90%8C%89+%F0%90%8C%82%F0%90%8B%85%F0%90%8C%89+%F0%90%8C%95%F0%90%8B%85%F0%90%8C%89%F0%90%8C%8D%F0%90%8B%85)](https://git.io/typing-svg)
 
 # 💫 𐌀𐌁Ꝋ𐌵𐌕 𐌌𐌄
-👋 Hi, I’m @ThinhPhoenix<br>👀 I’m interested in coding<br>🌱 I’m currently learning Golang<br>💞️ I’m looking to work in enormous project<br>📫 How to reach me https://www.facebook.com/laichithinh.phoenix
+
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="60%" style="border: none;">
+      👋 Hi, I'm @ThinhPhoenix<br>
+      👀 I'm interested in coding<br>
+      🌱 I'm currently learning Golang<br>
+      💞️ I'm looking to work in enormous project<br>
+      📫 How to reach me https://www.facebook.com/laichithinh.phoenix
+    </td>
+    <td width="40%" style="border: none;">
+      <img src="https://github.com/ThinhPhoenix/thinhphoenix/blob/main/assets/duck.gif?raw=true"/>
+    </td>
+  </tr>
+</table>
+
 
 # 🌐 𐌔Ꝋ𐌂𐌉𐌀𐌋𐌔
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/laichithinh.phoenix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laichithinh.phoenix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lct-phoenix) 
