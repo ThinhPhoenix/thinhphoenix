@@ -3,7 +3,6 @@
 # 💫 𐌀𐌁Ꝋ𐌵𐌕 𐌌𐌄
 👋 Hi, I’m @ThinhPhoenix<br>👀 I’m interested in coding<br>🌱 I’m currently learning Golang<br>💞️ I’m looking to work in enormous project<br>📫 How to reach me https://www.facebook.com/laichithinh.phoenix
 
-
 # 🌐 𐌔Ꝋ𐌂𐌉𐌀𐌋𐌔
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/laichithinh.phoenix) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laichithinh.phoenix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lct-phoenix) 
 ![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DThinhPhoenix&longCache=true)
