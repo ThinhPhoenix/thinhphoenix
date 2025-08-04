@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D5F7&width=435&lines=%F0%90%8B%85%F0%90%8C%84%F0%90%8C%8B%F0%90%8C%8B%EA%9D%8A+%F0%90%8C%95%F0%90%8B%85%F0%90%8C%84%F0%90%8C%90%F0%90%8C%84!+%F0%9F%91%8B;%F0%90%8C%89'%F0%90%8C%8C+%F0%90%8C%8B%F0%90%8C%80%F0%90%8C%89+%F0%90%8C%82%F0%90%8B%85%F0%90%8C%89+%F0%90%8C%95%F0%90%8B%85%F0%90%8C%89%F0%90%8C%8D%F0%90%8B%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Victor+Mono&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B!;I'm+Lai+Chi+Thinh)](https://git.io/typing-svg)
 
 # 💫 ABOUT ME
 
