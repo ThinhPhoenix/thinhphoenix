@@ -6,7 +6,7 @@
 
 👀 Passionate about **coding and building impactful software**
 
-🌱 Currently learning **Golang** and expanding my backend development skills
+🌱 Currently mastering **TypeScript** and expanding my backend development skills
 
 💼 Eager to contribute to **large-scale, ambitious projects**
 
